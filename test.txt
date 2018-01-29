@@ -1,8 +1,1 @@
-﻿This is a test file
-추가한 다음에 테스트
-branchTest
-
-branch3입니다
-branch1로 들어가려나~
-예스 들어왔습니다
-branch2입니다.
+﻿
