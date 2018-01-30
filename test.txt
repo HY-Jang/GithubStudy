@@ -1,1 +1,2 @@
 ﻿user 1 : new commit
+user 1 : new commit 2
