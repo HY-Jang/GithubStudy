@@ -1,4 +1,4 @@
-﻿﻿user 1 : new commit
+﻿﻿﻿user 1 : new commit
 user 1 : new commit 2
 ﻿user 2 : aaainpark commit
-
+user 2 : aaainpark commit 2
